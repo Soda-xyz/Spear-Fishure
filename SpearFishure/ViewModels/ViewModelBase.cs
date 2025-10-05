@@ -1,4 +1,4 @@
-﻿namespace SpearFishure.ViewModels
+namespace SpearFishure.ViewModels
 {
     using CommunityToolkit.Mvvm.ComponentModel;
 

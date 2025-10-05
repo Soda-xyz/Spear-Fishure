@@ -14,6 +14,38 @@ dotnet_diagnostic.SA1633.severity = none
 dotnet_diagnostic.SA1009.severity = none
 dotnet_diagnostic.SA1502.severity = none
 
+# Additional C# cosmetic/style rules
+[*.cs]
+# Require blank line between members
+csharp_style_allow_blank_lines_between_consecutive_braces = true:suggestion
+csharp_style_allow_embedded_statements_on_same_line = false:suggestion
+csharp_style_var_for_built_in_types = true:suggestion
+csharp_style_var_when_type_is_apparent = true:suggestion
+csharp_style_var_elsewhere = true:suggestion
+csharp_prefer_braces = true:suggestion
+csharp_prefer_simple_default_expression = true:suggestion
+csharp_prefer_simple_using_statement = true:suggestion
+csharp_space_after_cast = false:suggestion
+csharp_space_after_keywords_in_control_flow_statements = true:suggestion
+csharp_space_between_method_declaration_parameter_list_parentheses = false:suggestion
+csharp_space_between_method_call_parameter_list_parentheses = false:suggestion
+csharp_space_between_parentheses = false:suggestion
+csharp_space_around_binary_operators = before_and_after:suggestion
+csharp_space_after_colon_in_inheritance_clause = true:suggestion
+csharp_space_after_comma = true:suggestion
+csharp_space_after_dot = false:suggestion
+csharp_space_after_semicolon_in_for_statement = true:suggestion
+csharp_space_before_colon_in_inheritance_clause = true:suggestion
+csharp_space_before_comma = false:suggestion
+csharp_space_before_dot = false:suggestion
+csharp_space_before_open_square_brackets = false:suggestion
+csharp_space_between_empty_square_brackets = false:suggestion
+csharp_space_before_semicolon_in_for_statement = false:suggestion
+csharp_new_line_between_query_expression_clauses = true:suggestion
+csharp_new_line_before_members_in_object_initializers = true:suggestion
+csharp_new_line_before_members_in_anonymous_types = true:suggestion
+csharp_new_line_before_members_in_object_collection_initializers = true:suggestion
+
 [*.{xaml,xml}]
 indent_style = space
 indent_size = 2

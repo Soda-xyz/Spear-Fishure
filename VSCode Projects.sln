@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spear Fishure", "Spear Fishure\Spear Fishure.csproj", "{28522111-FF63-32D4-2727-46352BA1F930}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpearFishure", "SpearFishure\SpearFishure.csproj", "{476980B1-067B-93AF-2EFF-E30FA2A9D4F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{28522111-FF63-32D4-2727-46352BA1F930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28522111-FF63-32D4-2727-46352BA1F930}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28522111-FF63-32D4-2727-46352BA1F930}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28522111-FF63-32D4-2727-46352BA1F930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476980B1-067B-93AF-2EFF-E30FA2A9D4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476980B1-067B-93AF-2EFF-E30FA2A9D4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476980B1-067B-93AF-2EFF-E30FA2A9D4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476980B1-067B-93AF-2EFF-E30FA2A9D4F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7021BC16-015D-4B87-8309-A23A03D2A605}
+		SolutionGuid = {36105B25-D822-4956-A7D3-042DCC0632E9}
 	EndGlobalSection
 EndGlobal

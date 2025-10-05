@@ -1,4 +1,4 @@
-﻿namespace SpearFishure
+namespace SpearFishure
 {
     using System;
     using System.IO;

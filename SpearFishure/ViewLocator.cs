@@ -10,12 +10,12 @@ namespace SpearFishure
     /// </summary>
     public class ViewLocator : IDataTemplate
     {
-    /// <summary>
-    /// Builds a view for the given view model parameter.
-    /// </summary>
-    /// <param name="param">The view model instance.</param>
-    /// <returns>The corresponding view control, or a not found message.</returns>
-    public Control? Build(object? param)
+        /// <summary>
+        /// Builds a view for the given view model parameter.
+        /// </summary>
+        /// <param name="param">The view model instance.</param>
+        /// <returns>The corresponding view control, or a not found message.</returns>
+        public Control? Build(object? param)
         {
             if (param is null)
             {
@@ -33,12 +33,12 @@ namespace SpearFishure
             return new TextBlock { Text = "Not Found: " + name };
         }
 
-    /// <summary>
-    /// Determines whether the data is a ViewModelBase.
-    /// </summary>
-    /// <param name="data">The data to check.</param>
-    /// <returns>True if the data is a ViewModelBase; otherwise, false.</returns>
-    public bool Match(object? data)
+        /// <summary>
+        /// Determines whether the data is a ViewModelBase.
+        /// </summary>
+        /// <param name="data">The data to check.</param>
+        /// <returns>True if the data is a ViewModelBase; otherwise, false.</returns>
+        public bool Match(object? data)
         {
             return data is ViewModelBase;
         }
