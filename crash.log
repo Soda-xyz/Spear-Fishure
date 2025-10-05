@@ -1,11 +1,8 @@
-System.MissingMethodException: Method not found: 'Splat.IMutableDependencyResolver Splat.Locator.get_CurrentMutable()'.
-   at Avalonia.ReactiveUI.AppBuilderExtensions.<>c.<UseReactiveUI>b__0_1()
-   at Splat.InternalLocator.RegisterResolverCallbackChanged(Action callback) in c:\temp\releaser\splat\src\Splat.Core\ServiceLocation\InternalLocator.cs:line 106
-   at Splat.AppLocator.RegisterResolverCallbackChanged(Action callback) in c:\temp\releaser\splat\src\Splat.Core\ServiceLocation\AppLocator.cs:line 69
-   at Splat.Locator.RegisterResolverCallbackChanged(Action callback) in c:\temp\releaser\splat\src\Splat\ServiceLocation\Locator.cs:line 62
-   at Avalonia.ReactiveUI.AppBuilderExtensions.<>c.<UseReactiveUI>b__0_0(AppBuilder _)
+System.TypeLoadException: Method 'SetDataAsync' in type 'Avalonia.Win32.ClipboardImpl' from assembly 'Avalonia.Win32, Version=11.3.6.0, Culture=neutral, PublicKeyToken=c8d484a7012f9a8b' does not have an implementation.
+   at Avalonia.Win32.Win32Platform.Initialize(Win32PlatformOptions options)
+   at Avalonia.Win32ApplicationExtensions.<>c.<UseWin32>b__0_0()
    at Avalonia.AppBuilder.SetupUnsafe()
    at Avalonia.AppBuilder.Setup()
    at Avalonia.AppBuilder.SetupWithLifetime(IApplicationLifetime lifetime)
    at Avalonia.ClassicDesktopStyleApplicationLifetimeExtensions.StartWithClassicDesktopLifetime(AppBuilder builder, String[] args, Action`1 lifetimeBuilder)
-   at Spear_Fishure.Program.Main(String[] args) in C:\Cloud Storage\BaseFolder\VSCode Projects\Spear Fishure\Program.cs:line 25
+   at SpearFishure.Program.Main(String[] args) in C:\Cloud Storage\BaseFolder\VSCode Projects\SpearFishure\Program.cs:line 17
