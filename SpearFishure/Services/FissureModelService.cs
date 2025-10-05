@@ -19,10 +19,12 @@ namespace SpearFishure.Services
 
         public IReadOnlyList<FissureModel> Fissures
         {
-            get { lock (this.@lock)
-{
-    return this.fissures;
-}
+            get
+            {
+                lock (this.@lock)
+                {
+                    return this.fissures;
+                }
             }
         }
 

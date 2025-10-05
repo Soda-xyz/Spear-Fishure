@@ -1,8 +1,0 @@
-System.TypeLoadException: Method 'SetDataAsync' in type 'Avalonia.Win32.ClipboardImpl' from assembly 'Avalonia.Win32, Version=11.3.6.0, Culture=neutral, PublicKeyToken=c8d484a7012f9a8b' does not have an implementation.
-   at Avalonia.Win32.Win32Platform.Initialize(Win32PlatformOptions options)
-   at Avalonia.Win32ApplicationExtensions.<>c.<UseWin32>b__0_0()
-   at Avalonia.AppBuilder.SetupUnsafe()
-   at Avalonia.AppBuilder.Setup()
-   at Avalonia.AppBuilder.SetupWithLifetime(IApplicationLifetime lifetime)
-   at Avalonia.ClassicDesktopStyleApplicationLifetimeExtensions.StartWithClassicDesktopLifetime(AppBuilder builder, String[] args, Action`1 lifetimeBuilder)
-   at SpearFishure.Program.Main(String[] args) in C:\Cloud Storage\BaseFolder\VSCode Projects\SpearFishure\Program.cs:line 17
