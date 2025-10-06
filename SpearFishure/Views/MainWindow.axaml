@@ -17,4 +17,19 @@
     </Design.DataContext>
 
 
+
+
+    <TabControl ItemsSource="{Binding Planets}">
+        <TabControl.ItemTemplate>
+            <DataTemplate x:DataType="vm:PlanetViewModel">
+                <TextBlock Text="{Binding PlanetName}" />
+            </DataTemplate>
+        </TabControl.ItemTemplate>
+        <TabControl.ContentTemplate>
+            <DataTemplate x:DataType="vm:PlanetViewModel">
+                <views:PlanetView DataContext="{Binding}" />
+            </DataTemplate>
+        </TabControl.ContentTemplate>
+    </TabControl>
+
 </Window>

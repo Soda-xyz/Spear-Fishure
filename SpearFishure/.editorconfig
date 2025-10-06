@@ -13,6 +13,14 @@ max_line_length = 120
 dotnet_diagnostic.SA1633.severity = none
 dotnet_diagnostic.SA1009.severity = none
 dotnet_diagnostic.SA1502.severity = none
+dotnet_diagnostic.CS1591.severity = none
+dotnet_diagnostic.SA1600.severity = none
+dotnet_diagnostic.SA1604.severity = warning
+dotnet_diagnostic.SA1606.severity = warning
+dotnet_diagnostic.SA1402.severity = none
+dotnet_diagnostic.S3881.severity = none
+dotnet_diagnostic.SA1202.severity = none
+dotnet_diagnostic.SA1201.severity = none
 
 # Additional C# cosmetic/style rules
 [*.cs]

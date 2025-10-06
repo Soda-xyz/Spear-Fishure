@@ -1,0 +1,257 @@
+<Nodes>
+  <Node Name="Apollodorus" Planet="Mercury" Type="Survival" InternalName="SolNode94" />
+  <Node Name="Boethius" Planet="Mercury" Type="Mobile Defense" InternalName="SolNode223" />
+  <Node Name="Caloris" Planet="Mercury" Type="Rescue" InternalName="SolNode119" />
+  <Node Name="Elion" Planet="Mercury" Type="Capture" InternalName="SolNode12" />
+  <Node Name="Lares" Planet="Mercury" Type="Defense" InternalName="SolNode130" />
+  <Node Name="Odin" Planet="Mercury" Type="Interception" InternalName="SolNode224" />
+  <Node Name="Pantheon" Planet="Mercury" Type="Exterminate" InternalName="SolNode226" />
+  <Node Name="Suisei" Planet="Mercury" Type="Spy" InternalName="SolNode225" />
+  <Node Name="Aphrodite" Planet="Venus" Type="Mobile Defense" InternalName="SolNode2" />
+  <Node Name="Cytherean" Planet="Venus" Type="Interception" InternalName="SolNode23" />
+  <Node Name="E Gate" Planet="Venus" Type="Exterminate" InternalName="SolNode128" />
+  <Node Name="Ishtar" Planet="Venus" Type="Sabotage" InternalName="SolNode61" />
+  <Node Name="Kiliken" Planet="Venus" Type="Excavation" InternalName="SolNode101" />
+  <Node Name="Linea" Planet="Venus" Type="Rescue" InternalName="SolNode109" />
+  <Node Name="Malva" Planet="Venus" Type="Survival" InternalName="ClanNode1" />
+  <Node Name="Romula" Planet="Venus" Type="Defense" InternalName="ClanNode0" />
+  <Node Name="Tessera" Planet="Venus" Type="Defense" InternalName="SolNode22" />
+  <Node Name="Unda" Planet="Venus" Type="Spy" InternalName="SolNode66" />
+  <Node Name="Venera" Planet="Venus" Type="Capture" InternalName="SolNode107" />
+  <Node Name="V Prime" Planet="Venus" Type="Survival" InternalName="SolNode123" />
+  <Node Name="Cambria" Planet="Earth" Type="Spy" InternalName="SolNode79" />
+  <Node Name="Cervantes" Planet="Earth" Type="Sabotage" InternalName="SolNode75" />
+  <Node Name="E Prime" Planet="Earth" Type="Exterminate" InternalName="SolNode27" />
+  <Node Name="Eurasia" Planet="Earth" Type="Mobile Defense" InternalName="SolNode59" />
+  <Node Name="Everest" Planet="Earth" Type="Excavation" InternalName="SolNode39" />
+  <Node Name="Gaia" Planet="Earth" Type="Interception" InternalName="SolNode85" />
+  <Node Name="Lith" Planet="Earth" Type="Defense" InternalName="SolNode26" />
+  <Node Name="Mantle" Planet="Earth" Type="Capture" InternalName="SolNode63" />
+  <Node Name="Mariana" Planet="Earth" Type="Exterminate" InternalName="SolNode89" />
+  <Node Name="Pacific" Planet="Earth" Type="Rescue" InternalName="SolNode15" />
+  <Node Name="Coba" Planet="Earth" Type="Defense" InternalName="ClanNode2" />
+  <Node Name="Tikal" Planet="Earth" Type="Excavation" InternalName="ClanNode3" />
+  <Node Name="Saya's Visions" Planet="Earth" Type="Shrine Defense" InternalName="SolNode451" />
+  <Node Name="Alator" Planet="Mars" Type="Interception" InternalName="SolNode106" />
+  <Node Name="Ara" Planet="Mars" Type="Capture" InternalName="SolNode45" />
+  <Node Name="Ares" Planet="Mars" Type="Sabotage" InternalName="SolNode113" />
+  <Node Name="Arval" Planet="Mars" Type="Spy" InternalName="SolNode41" />
+  <Node Name="Augustus" Planet="Mars" Type="Excavation" InternalName="SolNode16" />
+  <Node Name="Gradivus" Planet="Mars" Type="Sabotage" InternalName="SolNode65" />
+  <Node Name="Hellas" Planet="Mars" Type="Exterminate" InternalName="SolNode58" />
+  <Node Name="Kadesh" Planet="Mars" Type="Defense" InternalName="ClanNode8" />
+  <Node Name="Martialis" Planet="Mars" Type="Rescue" InternalName="SolNode36" />
+  <Node Name="Olympus" Planet="Mars" Type="Disruption" InternalName="SolNode30" />
+  <Node Name="Spear" Planet="Mars" Type="Defense" InternalName="SolNode46" />
+  <Node Name="Tharsis" Planet="Mars" Type="Mobile Defense" InternalName="SolNode11" />
+  <Node Name="Tyana Pass" Planet="Mars" Type="Mirror Defense" InternalName="SolNode450" />
+  <Node Name="Vallis" Planet="Mars" Type="Mobile Defense" InternalName="SolNode68" />
+  <Node Name="Wahiba" Planet="Mars" Type="Survival" InternalName="ClanNode9" />
+  <Node Name="Roche" Planet="Phobos" Type="Exterminate" InternalName="SettlementNode1" />
+  <Node Name="Sharpless" Planet="Phobos" Type="Mobile Defense" InternalName="SettlementNode15" />
+  <Node Name="Gulliver" Planet="Phobos" Type="Defense" InternalName="SettlementNode11" />
+  <Node Name="Memphis" Planet="Phobos" Type="Defection" InternalName="ClanNode10" />
+  <Node Name="Monolith" Planet="Phobos" Type="Rescue" InternalName="SettlementNode12" />
+  <Node Name="Shklovsky" Planet="Phobos" Type="Spy" InternalName="SettlementNode14" />
+  <Node Name="Skyresh" Planet="Phobos" Type="Capture" InternalName="SettlementNode2" />
+  <Node Name="Stickney" Planet="Phobos" Type="Survival" InternalName="SettlementNode3" />
+  <Node Name="Zeugma" Planet="Phobos" Type="Survival" InternalName="ClanNode11" />
+  <Node Name="Horend" Planet="Deimos" Type="Capture" InternalName="SolNode706" />
+  <Node Name="Phlegyas" Planet="Deimos" Type="Exterminate" InternalName="SolNode708" />
+  <Node Name="Formido" Planet="Deimos" Type="Sabotage" InternalName="SolNode710" />
+  <Node Name="Hyf" Planet="Deimos" Type="Defense" InternalName="SolNode707" />
+  <Node Name="Dirus" Planet="Deimos" Type="Mobile Defense" InternalName="SolNode709" />
+  <Node Name="Terrorem" Planet="Deimos" Type="Survival" InternalName="SolNode711" />
+  <Node Name="Nex" Planet="Deimos" Type="Exterminate" InternalName="SolNode716" />
+  <Node Name="Persto" Planet="Deimos" Type="Survival" InternalName="SolNode717" />
+  <Node Name="Cambire" Planet="Deimos" Type="Alchemy" InternalName="SolNode718" />
+  <Node Name="Munio" Planet="Deimos" Type="Mirror Defense" InternalName="SolNode719" />
+  <Node Name="Armatus" Planet="Deimos" Type="Disruption" InternalName="SolNode721" />
+  <Node Name="Bode" Planet="Ceres" Type="Spy" InternalName="SolNode132" />
+  <Node Name="Casta" Planet="Ceres" Type="Defense" InternalName="SolNode149" />
+  <Node Name="Cinxia" Planet="Ceres" Type="Interception" InternalName="SolNode147" />
+  <Node Name="Draco" Planet="Ceres" Type="Survival" InternalName="SolNode146" />
+  <Node Name="Gabii" Planet="Ceres" Type="Survival" InternalName="ClanNode23" />
+  <Node Name="Ker" Planet="Ceres" Type="Sabotage" InternalName="SolNode141" />
+  <Node Name="Kiste" Planet="Ceres" Type="Mobile Defense" InternalName="SolNode140" />
+  <Node Name="Lex" Planet="Ceres" Type="Capture" InternalName="SolNode139" />
+  <Node Name="Ludi" Planet="Ceres" Type="Hijack" InternalName="SolNode138" />
+  <Node Name="Nuovo" Planet="Ceres" Type="Rescue" InternalName="SolNode137" />
+  <Node Name="Pallas" Planet="Ceres" Type="Exterminate" InternalName="SolNode131" />
+  <Node Name="Seimeni" Planet="Ceres" Type="Defense" InternalName="ClanNode22" />
+  <Node Name="Thon" Planet="Ceres" Type="Sabotage" InternalName="SolNode135" />
+  <Node Name="Adrastea" Planet="Jupiter" Type="Sabotage" InternalName="SolNode88" />
+  <Node Name="Amalthea" Planet="Jupiter" Type="Spy" InternalName="SolNode97" />
+  <Node Name="Ananke" Planet="Jupiter" Type="Capture" InternalName="SolNode73" />
+  <Node Name="Callisto" Planet="Jupiter" Type="Interception" InternalName="SolNode25" />
+  <Node Name="Carme" Planet="Jupiter" Type="Mobile Defense" InternalName="SolNode74" />
+  <Node Name="Carpo" Planet="Jupiter" Type="Exterminate" InternalName="SolNode121" />
+  <Node Name="Elara" Planet="Jupiter" Type="Survival" InternalName="SolNode100" />
+  <Node Name="Ganymede" Planet="Jupiter" Type="Disruption" InternalName="SolNode87" />
+  <Node Name="Io" Planet="Jupiter" Type="Defense" InternalName="SolNode125" />
+  <Node Name="Metis" Planet="Jupiter" Type="Rescue" InternalName="SolNode126" />
+  <Node Name="Thebe" Planet="Jupiter" Type="Sabotage" InternalName="SolNode10" />
+  <Node Name="Cameria" Planet="Jupiter" Type="Survival" InternalName="ClanNode5" />
+  <Node Name="Sinai" Planet="Jupiter" Type="Defense" InternalName="ClanNode4" />
+  <Node Name="Abaddon" Planet="Europa" Type="Capture" InternalName="SolNode203" />
+  <Node Name="Baal" Planet="Europa" Type="Exterminate" InternalName="SolNode205" />
+  <Node Name="Kokabiel" Planet="Europa" Type="Sabotage" InternalName="SolNode220" />
+  <Node Name="Morax" Planet="Europa" Type="Mobile Defense" InternalName="SolNode209" />
+  <Node Name="Orias" Planet="Europa" Type="Rescue" InternalName="SolNode217" />
+  <Node Name="Ose" Planet="Europa" Type="Interception" InternalName="SolNode211" />
+  <Node Name="Paimon" Planet="Europa" Type="Defense" InternalName="SolNode212" />
+  <Node Name="Sorath" Planet="Europa" Type="Hijack" InternalName="SolNode214" />
+  <Node Name="Valefor" Planet="Europa" Type="Excavation" InternalName="SolNode216" />
+  <Node Name="Cholistan" Planet="Europa" Type="Excavation" InternalName="ClanNode7" />
+  <Node Name="Larzac" Planet="Europa" Type="Defense" InternalName="ClanNode6" />
+  <Node Name="Anthe" Planet="Saturn" Type="Rescue" InternalName="SolNode31" />
+  <Node Name="Calypso" Planet="Saturn" Type="Sabotage" InternalName="SolNode82" />
+  <Node Name="Caracol" Planet="Saturn" Type="Defection" InternalName="ClanNode12" />
+  <Node Name="Cassini" Planet="Saturn" Type="Capture" InternalName="SolNode70" />
+  <Node Name="Dione" Planet="Saturn" Type="Spy" InternalName="SolNode67" />
+  <Node Name="Enceladus" Planet="Saturn" Type="Sabotage" InternalName="SolNode19" />
+  <Node Name="Helene" Planet="Saturn" Type="Defense" InternalName="SolNode42" />
+  <Node Name="Keeler" Planet="Saturn" Type="Mobile Defense" InternalName="SolNode93" />
+  <Node Name="Numa" Planet="Saturn" Type="Rescue" InternalName="SolNode50" />
+  <Node Name="Piscinas" Planet="Saturn" Type="Survival" InternalName="ClanNode13" />
+  <Node Name="Rhea" Planet="Saturn" Type="Interception" InternalName="SolNode18" />
+  <Node Name="Telesto" Planet="Saturn" Type="Exterminate" InternalName="SolNode20" />
+  <Node Name="Titan" Planet="Saturn" Type="Survival" InternalName="SolNode96" />
+  <Node Name="Ariel" Planet="Uranus" Type="Capture" InternalName="SolNode33" />
+  <Node Name="Assur" Planet="Uranus" Type="Survival" InternalName="ClanNode17" />
+  <Node Name="Caliban" Planet="Uranus" Type="Rescue" InternalName="SolNode60" />
+  <Node Name="Cressida" Planet="Uranus" Type="Mobile Defense" InternalName="SolNode83" />
+  <Node Name="Desdemona" Planet="Uranus" Type="Sabotage" InternalName="SolNode98" />
+  <Node Name="Ophelia" Planet="Uranus" Type="Survival" InternalName="SolNode69" />
+  <Node Name="Puck" Planet="Uranus" Type="Exterminate" InternalName="SolNode114" />
+  <Node Name="Rosalind" Planet="Uranus" Type="Spy" InternalName="SolNode9" />
+  <Node Name="Stephano" Planet="Uranus" Type="Defense" InternalName="SolNode122" />
+  <Node Name="Sycorax" Planet="Uranus" Type="Exterminate" InternalName="SolNode34" />
+  <Node Name="Umbriel" Planet="Uranus" Type="Interception" InternalName="SolNode64" />
+  <Node Name="Ur" Planet="Uranus" Type="Disruption" InternalName="ClanNode16" />
+  <Node Name="Despina" Planet="Neptune" Type="Excavation" InternalName="SolNode6" />
+  <Node Name="Galatea" Planet="Neptune" Type="Capture" InternalName="SolNode1" />
+  <Node Name="Kelashin" Planet="Neptune" Type="Survival" InternalName="ClanNode21" />
+  <Node Name="Laomedeia" Planet="Neptune" Type="Disruption" InternalName="SolNode118" />
+  <Node Name="Larissa" Planet="Neptune" Type="Mobile Defense" InternalName="SolNode49" />
+  <Node Name="Nereid" Planet="Neptune" Type="Spy" InternalName="SolNode84" />
+  <Node Name="Neso" Planet="Neptune" Type="Exterminate" InternalName="SolNode62" />
+  <Node Name="Proteus" Planet="Neptune" Type="Defense" InternalName="SolNode17" />
+  <Node Name="Sao" Planet="Neptune" Type="Sabotage" InternalName="SolNode57" />
+  <Node Name="Triton" Planet="Neptune" Type="Rescue" InternalName="SolNode78" />
+  <Node Name="Yursa" Planet="Neptune" Type="Defection" InternalName="ClanNode20" />
+  <Node Name="Acheron" Planet="Pluto" Type="Exterminate" InternalName="SolNode4" />
+  <Node Name="Cerberus" Planet="Pluto" Type="Interception" InternalName="SolNode43" />
+  <Node Name="Cypress" Planet="Pluto" Type="Sabotage" InternalName="SolNode56" />
+  <Node Name="Hydra" Planet="Pluto" Type="Capture" InternalName="SolNode76" />
+  <Node Name="Minthe" Planet="Pluto" Type="Mobile Defense" InternalName="SolNode38" />
+  <Node Name="Narcissus" Planet="Pluto" Type="Exterminate" InternalName="SolNode21" />
+  <Node Name="Oceanum" Planet="Pluto" Type="Spy" InternalName="SolNode102" />
+  <Node Name="Outer Terminus" Planet="Pluto" Type="Defense" InternalName="SolNode72" />
+  <Node Name="Palus" Planet="Pluto" Type="Survival" InternalName="SolNode81" />
+  <Node Name="Regna" Planet="Pluto" Type="Rescue" InternalName="SolNode48" />
+  <Node Name="Hieracon" Planet="Pluto" Type="Excavation" InternalName="ClanNode25" />
+  <Node Name="Sechura" Planet="Pluto" Type="Defense" InternalName="ClanNode24" />
+  <Node Name="Naga" Planet="Sedna" Type="Rescue" InternalName="SolNode189" />
+  <Node Name="Berehynia" Planet="Sedna" Type="Interception" InternalName="SolNode185" />
+  <Node Name="Hydron" Planet="Sedna" Type="Defense" InternalName="SolNode195" />
+  <Node Name="Selkie" Planet="Sedna" Type="Survival" InternalName="SolNode187" />
+  <Node Name="Adaro" Planet="Sedna" Type="Exterminate" InternalName="SolNode181" />
+  <Node Name="Rusalka" Planet="Sedna" Type="Sabotage" InternalName="SolNode184" />
+  <Node Name="Kelpie" Planet="Sedna" Type="Spy" InternalName="SolNode188" />
+  <Node Name="Marid" Planet="Sedna" Type="Hijack" InternalName="SolNode191" />
+  <Node Name="Charybdis" Planet="Sedna" Type="Mobile Defense" InternalName="SolNode196" />
+  <Node Name="Amarna" Planet="Sedna" Type="Survival" InternalName="ClanNode14" />
+  <Node Name="Sangeru" Planet="Sedna" Type="Defense" InternalName="ClanNode15" />
+  <Node Name="Kappa" Planet="Sedna" Type="Disruption" InternalName="SolNode177" />
+  <Node Name="Nakki" Planet="Sedna" Type="Arena" InternalName="SolNode190" />
+  <Node Name="Brugia" Planet="Eris" Type="Rescue" InternalName="SolNode153" />
+  <Node Name="Isos" Planet="Eris" Type="Capture" InternalName="SolNode162" />
+  <Node Name="Kala-azar" Planet="Eris" Type="Defense" InternalName="SolNode164" />
+  <Node Name="Naeglar" Planet="Eris" Type="Sabotage" InternalName="SolNode175" />
+  <Node Name="Nimus" Planet="Eris" Type="Survival" InternalName="SolNode166" />
+  <Node Name="Oestrus" Planet="Eris" Type="Infested Salvage" InternalName="SolNode167" />
+  <Node Name="Saxis" Planet="Eris" Type="Exterminate" InternalName="SolNode171" />
+  <Node Name="Solium" Planet="Eris" Type="Mobile Defense" InternalName="SolNode173" />
+  <Node Name="Xini" Planet="Eris" Type="Interception" InternalName="SolNode172" />
+  <Node Name="Akkad" Planet="Eris" Type="Defense" InternalName="ClanNode18" />
+  <Node Name="Zabala" Planet="Eris" Type="Survival" InternalName="ClanNode19" />
+  <Node Name="Apollo" Planet="Lua" Type="Disruption" InternalName="SolNode308" />
+  <Node Name="Circulus" Planet="Lua" Type="Survival" InternalName="SolNode310" />
+  <Node Name="Copernicus" Planet="Lua" Type="Capture" InternalName="SolNode304" />
+  <Node Name="Grimaldi" Planet="Lua" Type="Mobile Defense" InternalName="SolNode301" />
+  <Node Name="Stöfler" Planet="Lua" Type="Defense" InternalName="SolNode305" />
+  <Node Name="Tycho" Planet="Lua" Type="Survival" InternalName="SolNode302" />
+  <Node Name="Yuvarium" Planet="Lua" Type="Survival" InternalName="SolNode309" />
+  <Node Name="Zeipel" Planet="Lua" Type="Rescue" InternalName="SolNode307" />
+  <Node Name="Dakata" Planet="Kuva Fortress" Type="Exterminate" InternalName="SolNode746" />
+  <Node Name="Garus" Planet="Kuva Fortress" Type="Rescue" InternalName="SolNode748" />
+  <Node Name="Koro" Planet="Kuva Fortress" Type="Assault" InternalName="SolNode741" />
+  <Node Name="Nabuk" Planet="Kuva Fortress" Type="Defense" InternalName="SolNode742" />
+  <Node Name="Pago" Planet="Kuva Fortress" Type="Spy" InternalName="SolNode747" />
+  <Node Name="Rotuma" Planet="Kuva Fortress" Type="Mobile Defense" InternalName="SolNode743" />
+  <Node Name="Tamu" Planet="Kuva Fortress" Type="Disruption" InternalName="SolNode745" />
+  <Node Name="Taveuni" Planet="Kuva Fortress" Type="Survival" InternalName="SolNode744" />
+  <Node Name="Teshub" Planet="Void" Type="Exterminate" InternalName="SolNode400" />
+  <Node Name="Hepit" Planet="Void" Type="Capture" InternalName="SolNode401" />
+  <Node Name="Taranis" Planet="Void" Type="Defense" InternalName="SolNode402" />
+  <Node Name="Tiwaz" Planet="Void" Type="Mobile Defense" InternalName="SolNode403" />
+  <Node Name="Stribog" Planet="Void" Type="Sabotage" InternalName="SolNode404" />
+  <Node Name="Ani" Planet="Void" Type="Survival" InternalName="SolNode405" />
+  <Node Name="Ukko" Planet="Void" Type="Capture" InternalName="SolNode406" />
+  <Node Name="Oxomoco" Planet="Void" Type="Exterminate" InternalName="SolNode407" />
+  <Node Name="Belenus" Planet="Void" Type="Defense" InternalName="SolNode408" />
+  <Node Name="Aten" Planet="Void" Type="Mobile Defense" InternalName="SolNode410" />
+  <Node Name="Marduk" Planet="Void" Type="Sabotage" InternalName="SolNode411" />
+  <Node Name="Mithra" Planet="Void" Type="Interception" InternalName="SolNode412" />
+  <Node Name="Mot" Planet="Void" Type="Survival" InternalName="SolNode409" />
+  <Node Name="Tuvul Commons" Planet="Zariman Ten Zero" Type="Void Cascade" InternalName="SolNode232" />
+  <Node Name="Everview Arc" Planet="Zariman Ten Zero" Type="Void Flood" InternalName="SolNode230" />
+  <Node Name="Halako Perimeter" Planet="Zariman Ten Zero" Type="Exterminate" InternalName="SolNode231" />
+  <Node Name="The Greenway" Planet="Zariman Ten Zero" Type="Mobile Defense" InternalName="SolNode235" />
+  <Node Name="Oro Works" Planet="Zariman Ten Zero" Type="Void Armageddon" InternalName="SolNode233" />
+  <Node Name="Köbinn West" Planet="Höllvania" Type="Legacyte Harvest" InternalName="SolNode850" />
+  <Node Name="Mischta Ramparts" Planet="Höllvania" Type="Hell-Scrub" InternalName="SolNode851" />
+  <Node Name="Old Konderuk" Planet="Höllvania" Type="Hell-Scrub" InternalName="SolNode852" />
+  <Node Name="Mausoleum East" Planet="Höllvania" Type="Exterminate" InternalName="SolNode853" />
+  <Node Name="Rhu Manor" Planet="Höllvania" Type="Exterminate" InternalName="SolNode854" />
+  <Node Name="Solstice Square" Planet="Höllvania" Type="Stage Defense" InternalName="SolNode858" />
+  <Node Name="Sover Strait" Planet="Earth Proxima" Type="Skirmish" InternalName="CrewBattleNode502" />
+  <Node Name="Iota Temple" Planet="Earth Proxima" Type="Skirmish" InternalName="CrewBattleNode509" />
+  <Node Name="Ogal Cluster" Planet="Earth Proxima" Type="Skirmish" InternalName="CrewBattleNode518" />
+  <Node Name="Korm's Belt" Planet="Earth Proxima" Type="Skirmish" InternalName="CrewBattleNode519" />
+  <Node Name="Bendar Cluster" Planet="Earth Proxima" Type="Skirmish" InternalName="CrewBattleNode522" />
+  <Node Name="Beacon Shield Ring" Planet="Venus Proxima" Type="Volatile" InternalName="CrewBattleNode511" />
+  <Node Name="Vesper Strait" Planet="Venus Proxima" Type="Orphix" InternalName="CrewBattleNode513" />
+  <Node Name="Luckless Expanse" Planet="Venus Proxima" Type="Survival" InternalName="CrewBattleNode515" />
+  <Node Name="Falling Glory" Planet="Venus Proxima" Type="Defense" InternalName="CrewBattleNode514" />
+  <Node Name="Bifrost Echo" Planet="Venus Proxima" Type="Exterminate" InternalName="CrewBattleNode503" />
+  <Node Name="Orvin-Haarc" Planet="Venus Proxima" Type="Spy" InternalName="CrewBattleNode512" />
+  <Node Name="Mordo Cluster" Planet="Saturn Proxima" Type="Skirmish" InternalName="CrewBattleNode501" />
+  <Node Name="Lupal Pass" Planet="Saturn Proxima" Type="Skirmish" InternalName="CrewBattleNode534" />
+  <Node Name="Nodo Gap" Planet="Saturn Proxima" Type="Skirmish" InternalName="CrewBattleNode533" />
+  <Node Name="Vand Cluster" Planet="Saturn Proxima" Type="Skirmish" InternalName="CrewBattleNode535" />
+  <Node Name="Kasio's Rest" Planet="Saturn Proxima" Type="Skirmish" InternalName="CrewBattleNode530" />
+  <Node Name="Arva Vector" Planet="Neptune Proxima" Type="Defense" InternalName="CrewBattleNode504" />
+  <Node Name="Nu-gua Mines" Planet="Neptune Proxima" Type="Exterminate" InternalName="CrewBattleNode516" />
+  <Node Name="Mammon's Prospect" Planet="Neptune Proxima" Type="Orphix" InternalName="CrewBattleNode523" />
+  <Node Name="Brom Cluster" Planet="Neptune Proxima" Type="Spy" InternalName="CrewBattleNode525" />
+  <Node Name="Enkidu Ice Drifts" Planet="Neptune Proxima" Type="Survival" InternalName="CrewBattleNode521" />
+  <Node Name="Sovereign Grasp" Planet="Neptune Proxima" Type="Volatile" InternalName="CrewBattleNode524" />
+  <Node Name="Khufu Envoy" Planet="Pluto Proxima" Type="Orphix" InternalName="CrewBattleNode526" />
+  <Node Name="Seven Sirens" Planet="Pluto Proxima" Type="Exterminate" InternalName="CrewBattleNode527" />
+  <Node Name="Obol Crossing" Planet="Pluto Proxima" Type="Defense" InternalName="CrewBattleNode528" />
+  <Node Name="Fenton's Field" Planet="Pluto Proxima" Type="Survival" InternalName="CrewBattleNode531" />
+  <Node Name="Profit Margin" Planet="Pluto Proxima" Type="Volatile" InternalName="CrewBattleNode529" />
+  <Node Name="Peregrine Axis" Planet="Pluto Proxima" Type="Spy" InternalName="CrewBattleNode536" />
+  <Node Name="Nsu Grid" Planet="Veil Proxima" Type="Skirmish" InternalName="CrewBattleNode550" />
+  <Node Name="R-9 Cloud" Planet="Veil Proxima" Type="Skirmish" InternalName="CrewBattleNode555" />
+  <Node Name="H-2 Cloud" Planet="Veil Proxima" Type="Skirmish" InternalName="CrewBattleNode554" />
+  <Node Name="Flexa" Planet="Veil Proxima" Type="Skirmish" InternalName="CrewBattleNode553" />
+  <Node Name="Calabash" Planet="Veil Proxima" Type="Exterminate" InternalName="CrewBattleNode538" />
+  <Node Name="Numina" Planet="Veil Proxima" Type="Volatile" InternalName="CrewBattleNode539" />
+  <Node Name="Arc Silver" Planet="Veil Proxima" Type="Defense" InternalName="CrewBattleNode540" />
+  <Node Name="Erato" Planet="Veil Proxima" Type="Orphix" InternalName="CrewBattleNode541" />
+  <Node Name="Lu-yan" Planet="Veil Proxima" Type="Survival" InternalName="CrewBattleNode542" />
+  <Node Name="Sabmir Cloud" Planet="Veil Proxima" Type="Spy" InternalName="CrewBattleNode543" />
+</Nodes>

@@ -1,0 +1,27 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+                         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                         xmlns:vm="using:SpearFishure.ViewModels"
+                         xmlns:model="using:SpearFishure.Models"
+                         x:Class="SpearFishure.Views.PlanetView"
+                         x:DataType="vm:PlanetViewModel">
+    <StackPanel>
+        <!-- Planet Name Header -->
+        <TextBlock Text="{Binding PlanetName}" FontWeight="Bold" FontSize="18" Margin="0,0,0,8"/>
+        <!-- Node List -->
+        <ItemsControl ItemsSource="{Binding Nodes}">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate x:DataType="model:NodeDataModel">
+                    <DockPanel Margin="0,2">
+                        <!-- Node Name and Type -->
+                        <StackPanel Orientation="Horizontal" DockPanel.Dock="Left">
+                            <TextBlock Text="{Binding Name}" Margin="0,0,8,0"/>
+                            <TextBlock Text="{Binding Type}" Foreground="Gray"/>
+                        </StackPanel>
+                        <!-- Button on the right -->
+                        <Button Content="Action" HorizontalAlignment="Right" DockPanel.Dock="Right"/>
+                    </DockPanel>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </StackPanel>
+</UserControl>

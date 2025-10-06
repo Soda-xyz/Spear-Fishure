@@ -6,6 +6,7 @@ namespace SpearFishure
     using Avalonia.Data.Core;
     using Avalonia.Data.Core.Plugins;
     using Avalonia.Markup.Xaml;
+    using SpearFishure.Services;
     using SpearFishure.ViewModels;
     using SpearFishure.Views;
 
@@ -14,6 +15,11 @@ namespace SpearFishure
     /// </summary>
     public partial class App : Application
     {
+        /// <summary>
+        /// Gets the global FissureModelService instance, kept alive for the app lifetime.
+        /// </summary>
+        public static Services.FissureModelService? FissureServiceInstance { get; private set; }
+
         /// <summary>
         /// Initializes the application and loads XAML.
         /// </summary>
@@ -27,6 +33,11 @@ namespace SpearFishure
         /// </summary>
         public override void OnFrameworkInitializationCompleted()
         {
+            // Create and keep alive the global FissureModelService
+            FissureServiceInstance = new Services.FissureModelService();
+
+            // Initialize Node Data for program wide use.
+            NodeDataService.Initialize();
             if (this.ApplicationLifetime is IClassicDesktopStyleApplicationLifetime desktop)
             {
                 // Avoid duplicate validations from both Avalonia and the CommunityToolkit.
@@ -34,7 +45,7 @@ namespace SpearFishure
                 this.DisableAvaloniaDataAnnotationValidation();
                 desktop.MainWindow = new MainWindow
                 {
-                    DataContext = new MainWindowViewModel(),
+                    DataContext = new MainWindowViewModel(FissureServiceInstance),
                 };
             }
 

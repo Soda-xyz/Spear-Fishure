@@ -3,6 +3,8 @@ namespace SpearFishure
     using System;
     using System.IO;
     using Avalonia;
+    using Avalonia.ReactiveUI;
+    using Microsoft.Extensions.Logging;
 
     /// <summary>
     /// The main entry point and configuration for the SpearFishure application.
@@ -37,7 +39,14 @@ namespace SpearFishure
             return AppBuilder.Configure<App>()
                 .UsePlatformDetect()
                 .WithInterFont()
-                .LogToTrace();
+                .LogToTrace()
+                .AfterSetup(_ =>
+                {
+                    Logging.LoggerFactory = LoggerFactory.Create(builder =>
+                    {
+                        builder.AddConsole();
+                    });
+                });
         }
     }
 }
